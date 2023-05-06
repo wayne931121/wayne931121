@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 -     
 -     是個萌新
--     A person who need $Money
 
 <!---
 wayne931121/wayne931121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
