@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 - My Social
 - https://github.com/wayne931121
 - https://www.instagram.com/wayne931121_studio
+- https://www.instagram.com/wayne931121
 - https://www.youtube.com/@小辰的筆記本
 - https://twitter.com/wayne931121
+- https://pypi.org/user/wayne931121
 - https://stackoverflow.com/users/19470749
