@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'am a student currect study in 國立雲林科技大學（National Yunlin University of Science and Technology, aka 雲科, YunTech, NYUST）.
 
+### Language
+
+其實我並不會用英文，我只會用中文，那些英文都是我用手打出來的，別問我手是怎麼打的。
+
 ### My Social
 - https://github.com/wayne931121
 - https://www.instagram.com/wayne931121_studio
