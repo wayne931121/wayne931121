@@ -17,7 +17,7 @@ Hi, I'am a student currect study in 國立雲林科技大學（National Yunlin U
 
 ### Language
 
-其實我並不會用英文，我只會用中文，那些英文都是我用手打出來的，別問我手是怎麼打的。
+我是臺灣人，使用中文繁體。
 
 ### My Social
 - https://github.com/wayne931121
