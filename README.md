@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### How to reach me:
 
-Hi, I'am a student currect study in 國立雲林科技大學（National Yunlin University of Science and Technology aka 雲科, YunTech, NYUST）.
+Hi, I'am a student currect study in 國立雲林科技大學（National Yunlin University of Science and Technology, aka 雲科, YunTech, NYUST）.
 
 ### My Social
 - https://github.com/wayne931121
