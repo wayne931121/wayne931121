@@ -11,7 +11,11 @@ wayne931121/wayne931121 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-- My Social
+### How to reach me:
+
+Hi, I'am a student currect study in 國立雲林科技大學（National Yunlin University of Science and Technology aka 雲科, YunTech, NYUST）.
+
+### My Social
 - https://github.com/wayne931121
 - https://www.instagram.com/wayne931121_studio
 - https://www.instagram.com/wayne931121
