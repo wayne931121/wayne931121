@@ -23,6 +23,9 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 ### My Social
 #### Github
 - https://github.com/wayne931121
+#### Facebook
+- https://www.facebook.com/Wayne00001
+- https://www.facebook.com/profile.php?id=100068734131923
 #### Instagram
 - https://www.instagram.com/wayne931121_studio
 - https://www.instagram.com/wayne931121
