@@ -36,5 +36,5 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 - https://pypi.org/user/wayne931121
 #### Stackoverflow
 - https://stackoverflow.com/users/19470749
-#### Thread
+#### Threads
 - https://www.threads.com/@wayne931121
