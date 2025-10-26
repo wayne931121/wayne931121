@@ -20,10 +20,16 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 我是臺灣人，使用中文繁體。
 
 ### My Social
+#### Github
 - https://github.com/wayne931121
+#### Instagram
 - https://www.instagram.com/wayne931121_studio
 - https://www.instagram.com/wayne931121
+#### Youtube
 - https://www.youtube.com/@小辰的筆記本
+#### Twitter
 - https://twitter.com/wayne931121
+#### Pypi
 - https://pypi.org/user/wayne931121
+#### Stackoverflow
 - https://stackoverflow.com/users/19470749
