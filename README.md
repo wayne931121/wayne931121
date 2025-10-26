@@ -30,7 +30,7 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 - https://www.youtube.com/@小辰的筆記本
 #### Twitter
 - https://twitter.com/wayne931121
-### BiliBili
+#### BiliBili
 - https://space.bilibili.com/1909921569
 #### PyPi
 - https://pypi.org/user/wayne931121
