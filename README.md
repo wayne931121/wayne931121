@@ -29,7 +29,7 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 - https://www.youtube.com/@小辰的筆記本
 #### Twitter
 - https://twitter.com/wayne931121
-#### Pypi
+#### PyPi
 - https://pypi.org/user/wayne931121
 #### Stackoverflow
 - https://stackoverflow.com/users/19470749
