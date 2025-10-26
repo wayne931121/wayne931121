@@ -31,7 +31,7 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 #### Twitter
 - https://twitter.com/wayne931121
 ### BiliBili
-https://space.bilibili.com/1909921569
+- https://space.bilibili.com/1909921569
 #### PyPi
 - https://pypi.org/user/wayne931121
 #### Stackoverflow
