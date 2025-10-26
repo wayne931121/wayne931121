@@ -29,6 +29,7 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 #### Instagram
 - https://www.instagram.com/wayne931121_studio
 - https://www.instagram.com/wayne931121
+- https://www.instagram.com/wayne93112101
 #### Youtube
 - https://www.youtube.com/@小辰的筆記本
 #### Twitter
@@ -41,3 +42,4 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 - https://stackoverflow.com/users/19470749
 #### Threads
 - https://www.threads.com/@wayne931121
+- https://www.threads.com/@wayne93112101
