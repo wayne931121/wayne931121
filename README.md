@@ -43,3 +43,13 @@ Hi, I'am a student currect study in National Yunlin University of Science and Te
 #### Threads
 - https://www.threads.com/@wayne931121
 - https://www.threads.com/@wayne93112101
+
+### Music
+#### Youtube Music
+- https://music.youtube.com/channel/UCTvAH6g0_wiq6Q9KI7gpmHg?si=qQDx1d5gDNkovAt0
+
+#### Spotify
+- https://open.spotify.com/artist/02lg6jqWmoc4BOTW2WGMzv?si=jwpzOggpSQ6Qq4VVa2io3A
+
+#### KKBOX
+- https://kkbox.fm/Er4YSi
