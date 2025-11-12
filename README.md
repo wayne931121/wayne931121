@@ -1,6 +1,6 @@
 ### Intro
 - 👋 Hi, I’m @wayne931121
-- 👀 I’m interested in insect, I like to observe insects, in 2022
+- 👀 I’m interested in insect, I like to observe insects, in 2022.
 - 🌱 I’m currently <del>learning code</del>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
