@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### How to reach me:
 
-Hi, I'am a student currect study in National Yunlin University of Science and Technology.
+Hi, I'm a student currect study in National Yunlin University of Science and Technology.
 
 ### Language
 
